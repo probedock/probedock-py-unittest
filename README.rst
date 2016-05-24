@@ -18,7 +18,7 @@ For now, no package is available on pip. This will come.
 
 Until then, you need to install the base probedock package manually :
 
-    * go to `Probedock Python https://github.com/probedock/probedock-python`_ and download the package
+    * go to `Probedock Python <https://github.com/probedock/probedock-python>`_ and download the package
     * run `python3 setup.py` in the directory where you downloaded the files, which will install the base library
     * download the package here
     * run `python3 setup.py` in the directory where you downloaded the files.
@@ -37,17 +37,17 @@ You can use this test result reporter as a simple drop in replacement for the st
 Configuration
 -------------
 
-For information about how to configure the probe, please see `Probedock Python https://github.com/probedock/probedock-python`_
+For information about how to configure the probe, please see `Probedock Python <https://github.com/probedock/probedock-python>`_
 
 
 Contributing
 ------------
 
-When contributing new features and bug fixes, please add a `changelog CHANGELOG.rst`_ entry with your name and what you did
+When contributing new features and bug fixes, please add a `changelog <CHANGELOG.rst>`_ entry with your name and what you did
 
 
 License
 -------
 
-Probe Dock Py Unittest is licensed under the `MIT License http://opensource.org/licenses/MIT`_.
-See `LICENSE.txt LICENSE.txt`_ for the full license.
+Probe Dock Py Unittest is licensed under the `MIT License <http://opensource.org/licenses/MIT>`_.
+See `LICENSE.txt <LICENSE.md>`_ for the full license.
